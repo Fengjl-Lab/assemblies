@@ -1,4 +1,3 @@
-#! /usr/bin/python3.9
 import brain
 import brain_util as bu
 import numpy as np
